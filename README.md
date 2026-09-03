@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm factor241 👋
 
-<!--
-**factor241/factor241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent open-source developer focused on developer tooling, local-first architectures, and autonomous AI systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+- **[Ketos](https://github.com/factor241/ketos-bot)** — Local-first visual builder and programmable runtime for AI workflows. Combines a React visual flow canvas, FastAPI execution engine, `ketoskit` component SDK, and native Model Context Protocol (MCP) server for AI coding agents.
+
+---
+
+### 🛠️ Tech Stack & Focus Areas
+
+- **Languages:** Python, TypeScript, JavaScript
+- **Backend & Systems:** FastAPI, Node.js, SQLite, AsyncIO, Architecture contracts
+- **Frontend:** React, Tailwind CSS, Canvas/Node Graph interfaces
+- **AI & Agents:** Model Context Protocol (MCP), Agentic toolkits, Workflow orchestration, Local-first privacy
